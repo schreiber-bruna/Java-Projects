@@ -21,6 +21,7 @@ O que o sistema executa:
   Durante toda a execução, o programa imprime no console cada passo do robô, detalhando a direção escolhida (UP, DOWN, LEFT, RIGHT) e a coordenada exata alcançada a cada turno, finalizando com uma mensagem de chegada.
 
 Estrutura do Código:
+
   `Principal.java`: É a classe executável do programa, ela cria o mapa 10x10, insere o robô e mantém um laço de repetição que processa e imprime os movimentos até a corrida acabar.
 
   `Matrix.java`: Gerencia o ambiente, os limites das bordas, as posições atuais dos itens através de uma classe ItemPos e a regra que define o que constitui uma volta no circuito.
