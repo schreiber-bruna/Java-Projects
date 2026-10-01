@@ -1,4 +1,5 @@
 Um simulador de loteria desenvolvido em Java. O sistema permite gerenciar o saldo financeiro do usuário, fazer diferentes tipos de apostas e realizar sorteios com distribuição de prêmios de forma automatizada via terminal.
+
 Funcionalidades Principais:
   Menu Interativo: Interface via console, utilizando `Scanner`, onde o usuário configura toda a simulação passo a passo.
   Gestão de Carteira: Controle de saldo em tempo real. O sistema calcula automaticamente quantos bilhetes podem ser comprados e barra compras caso o dinheiro acabe.
