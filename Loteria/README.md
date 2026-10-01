@@ -6,7 +6,7 @@ Funcionalidades Principais:
   
   Gestão de Carteira: Controle de saldo em tempo real. O sistema calcula automaticamente quantos bilhetes podem ser comprados e barra compras caso o dinheiro acabe.
   
-  Outros Participante: O usuário pode adicionar $N$ participantes extras controlados pelo computador. Cada participante recebe um saldo inicial independente e tenta realizar a mesma quantidade de apostas do usuário, interrompendo as compras se o próprio saldo estourar.
+  Outros Participante: O usuário pode adicionar N participantes extras controlados pelo computador. Cada participante recebe um saldo inicial independente e tenta realizar a mesma quantidade de apostas do usuário, interrompendo as compras se o próprio saldo estourar.
   
   O Jogo:
   
